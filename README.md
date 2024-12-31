@@ -1,1 +1,6 @@
-# yes
+#include<stdio.h>
+void main()
+{
+printf("c progress");
+getch();
+}
